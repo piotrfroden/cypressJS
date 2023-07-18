@@ -15,7 +15,6 @@ describe('search vehicles in country Germany', () => {
 
   it(jsonData.test1.testname, () => {
     searchPage.checkAlertMessage()
-    //let strCountry = 'Germainy', strCity = 'Berlin', strModel = 'Toyota', strCompany = 'Allen Ltd', strCarModel = 'Toyota RAV4', strLicensePlate = '481 8GG', strPrice = '380$', strPricePerDay = '76$'
     //fill search form with input country, city, model, date pickup and date drop off
     cy.searchVehicles(jsonData.test1.country, jsonData.test1.city, jsonData.test1.model, datePickUp, targetDate)
     //search on results table one vehicle
