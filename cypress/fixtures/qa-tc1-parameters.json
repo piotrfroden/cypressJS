@@ -1,0 +1,48 @@
+{
+    "test1" : {
+        "testname": "search vehicles in country Poland Cracow and rent car",
+        "country" : "Poland", 
+        "city": "Cracow", 
+        "model": "Volkswagen", 
+        "company": "Dawson PLC", 
+        "carModel": "Volkswagen Tiguan", 
+        "licensePlate": "9873", 
+        "price": "445$", 
+        "pricePerDay": "89$"
+    },
+    "test2" : {
+        "testname": "search vehicles in country Poland Wroclaw and rent car",
+        "country" : "Poland", 
+        "city": "Wroclaw", 
+        "model": "Toyota", 
+        "company": "Kaiser, Williams and Arellano", 
+        "carModel": "Toyota Aygo", 
+        "licensePlate": "181CMD", 
+        "price": "295$", 
+        "pricePerDay": "59$"
+    },
+    "test3" : {
+        "testname": "search vehicles in country Poland Paris",
+        "country" : "Poland", 
+        "city": "Paris", 
+        "model": "Toyota"
+    },
+    "test4" : {
+        "testname": "search vehicles in country Poland Berlin",
+        "country" : "Poland", 
+        "city": "Berlin", 
+        "model": "Toyota"
+    },
+    "test5" : {
+        "testname": "search vehicles in country Poland Cracow",
+        "country" : "Poland", 
+        "city": "Cracow", 
+        "model": "Acura"
+    },
+    "test6" : {
+        "testname": "search vehicles in country Poland Wroclaw",
+        "country" : "Poland", 
+        "city": "Wroclaw", 
+        "model": "Porsche"
+    }
+}

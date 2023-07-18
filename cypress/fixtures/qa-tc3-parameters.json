@@ -1,0 +1,37 @@
+{
+    "test1" : {
+        "testname": "search vehicles in country France Paris and rent car",
+        "country" : "France", 
+        "city": "Paris", 
+        "model": "Toyota", 
+        "company": "Oneill-Reed", 
+        "carModel": "Toyota Aygo", 
+        "licensePlate": "890 DLS", 
+        "price": "195$", 
+        "pricePerDay": "39$"
+    },
+    "test2" : {
+        "testname": "search vehicles in country France Berlin",
+        "country" : "France", 
+        "city": "Berlin", 
+        "model": "Toyota"
+    },
+    "test3" : {
+        "testname": "search vehicles in country France Cracow",
+        "country" : "France", 
+        "city": "Cracow", 
+        "model": "Toyota"
+    },
+    "test4" : {
+        "testname": "search vehicles in country France Wroclaw",
+        "country" : "France", 
+        "city": "Wroclaw", 
+        "model": "Toyota"
+    },
+    "test5" : {
+        "testname": "search vehicles in country France Paris",
+        "country" : "France", 
+        "city": "Paris", 
+        "model": "Citroen"
+    }
+}

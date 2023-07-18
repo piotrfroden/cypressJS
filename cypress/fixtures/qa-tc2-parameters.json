@@ -1,0 +1,37 @@
+{
+    "test1" : {
+        "testname": "search vehicles in country Germany Berlin and rent car",
+        "country" : "Germainy", 
+        "city": "Berlin", 
+        "model": "Toyota", 
+        "company": "Allen Ltd", 
+        "carModel": "Toyota RAV4", 
+        "licensePlate": "481 8GG", 
+        "price": "380$", 
+        "pricePerDay": "76$"
+    },
+    "test2" : {
+        "testname": "search vehicles in country Germany Paris",
+        "country" : "Germainy", 
+        "city": "Paris", 
+        "model": "Toyota"
+    },
+    "test3" : {
+        "testname": "search vehicles in country Germany Cracow",
+        "country" : "Germainy", 
+        "city": "Cracow", 
+        "model": "Toyota"
+    },
+    "test4" : {
+        "testname": "search vehicles in country Germany Wroclaw",
+        "country" : "Germainy", 
+        "city": "Wroclaw", 
+        "model": "Toyota"
+    },
+    "test5" : {
+        "testname": "search vehicles in country Germany Berlin",
+        "country" : "Germainy", 
+        "city": "Berlin", 
+        "model": "Nissan"
+    }
+}
